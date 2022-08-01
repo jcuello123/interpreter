@@ -14,5 +14,18 @@ public enum TokenType {
     LBRACE,
     RBRACE,
     FUNCTION,
-    LET
+    LET,
+    NOT,
+    MINUS,
+    DIVIDE,
+    MULTIPLY,
+    LESS_THAN,
+    GREATER_THAN,
+    IF,
+    ELSE,
+    RETURN,
+    TRUE,
+    FALSE,
+    EQUAL,
+    NOT_EQUAL
 }
